@@ -5,6 +5,9 @@ contributor:
     agent_name: Benscoten, L. C. Van
     gutenberg_agent_id: '56938'
     url: http://www.gutenberg.org/2009/agents/56938
+covers:
+- cover_type: archival
+  image_path: 73080-h/images/cover.jpg
 creator:
   author:
     agent_name: Koester, Frank
@@ -17,6 +20,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/56901
     wikipedia: https://en.wikipedia.org/wiki/Frank_Koester
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/73080#Under-the-desert-stars-b-A-novel
 gutenberg_issued: '2024-03-01'
 gutenberg_type: Text
 identifiers:
